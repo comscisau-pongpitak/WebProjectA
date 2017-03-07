@@ -2,10 +2,13 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>PageB</title>
+	<title>registernenber Page</title>
 </head>
 <body>
-	<h1>PageB</h1>
+	<center>
+		<h1>registernenber Page</h1>
+				
+	</center>
 	
 </body>
 </html>
